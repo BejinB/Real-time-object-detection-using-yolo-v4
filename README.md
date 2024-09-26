@@ -1,3 +1,4 @@
+
 ## BN# Object-detection-using-web-camera
 
 ### Name:BEJIN.B
@@ -89,8 +90,7 @@ cv2.destroyAllWindows()
 ```
 ### Output:
   
-
-
+![img1](https://github.com/user-attachments/assets/9b74c5e0-b6e3-4e3c-8339-271dca02ceda)
 
 
   
