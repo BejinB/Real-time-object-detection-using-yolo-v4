@@ -1,5 +1,5 @@
 
-## BN# Object-detection-using-web-camera
+## Object-detection-using-web-camera
 
 ### Name:BEJIN.B
 ### Reg no: 212222230021
